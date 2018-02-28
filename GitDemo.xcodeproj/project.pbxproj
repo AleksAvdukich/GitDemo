@@ -14,6 +14,7 @@
 		1FF7062120459D6000AA4759 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FF7061F20459D6000AA4759 /* LaunchScreen.storyboard */; };
 		1FF7062C20459D6000AA4759 /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7062B20459D6000AA4759 /* GitDemoTests.swift */; };
 		1FF7063720459D6000AA4759 /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7063620459D6000AA4759 /* GitDemoUITests.swift */; };
+		1FF706452046B5A400AA4759 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1FF706442046B5A400AA4759 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1FF7063220459D6000AA4759 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF7063620459D6000AA4759 /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		1FF7063820459D6000AA4759 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FF706442046B5A400AA4759 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		1FF7060A20459D6000AA4759 = {
 			isa = PBXGroup;
 			children = (
+				1FF706442046B5A400AA4759 /* .gitignore */,
 				1FF7061520459D6000AA4759 /* GitDemo */,
 				1FF7062A20459D6000AA4759 /* GitDemoTests */,
 				1FF7063520459D6000AA4759 /* GitDemoUITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FF706452046B5A400AA4759 /* .gitignore in Resources */,
 				1FF7062120459D6000AA4759 /* LaunchScreen.storyboard in Resources */,
 				1FF7061E20459D6000AA4759 /* Assets.xcassets in Resources */,
 				1FF7061C20459D6000AA4759 /* Main.storyboard in Resources */,
